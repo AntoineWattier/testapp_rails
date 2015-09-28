@@ -1,7 +1,7 @@
 # Change these
 server '104.236.232.62', port: 22, roles: [:web, :app, :db], primary: true
 
-set :repo_url,        'git@github.com:sheharyarn/testapp_rails.git'
+set :repo_url,        'git@github.com:AntoineWattier/testapp_rails.git'
 set :application,     'testapp'
 set :user,            'deployer'
 set :puma_threads,    [4, 16]
