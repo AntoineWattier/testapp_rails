@@ -39,5 +39,3 @@ Testing on Your own Droplet
 If you'd like to test this app on your own droplet, [fork](https://github.com/sheharyarn/testapp_rails/fork)
 this repo and follow the DigitalOcean Guide step-by-step replacing parameters (such as Droplet IP, SSH Port, User, etc.)
 with your Repo URL and Droplet's information.
-
-
