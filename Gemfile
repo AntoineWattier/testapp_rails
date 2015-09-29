@@ -31,5 +31,5 @@ gem 'awesome_print'
 gem 'quiet_assets'
 
 gem 'devise'
-gem 'mongoid'
+gem 'pg'
 
